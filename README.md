@@ -12,12 +12,11 @@ Meu maior interesse, é me profissionalizar mais ainda em Eletromecânica, para 
 ## Projetos que trabalho/trabalhei
 CTO da [Alfacusa](https://alfacusa.com)<br/>
 CTO da [Rede Magma](https://discord.gg/m5PYtFw6wp)<br/>
+Gerência do [TrollPixel](https://github.com/TrollPixel)<br/>
 Coordenação Geral da [STRTeam](https://www.strteamservidores.com.br/)<br/>
 Manager do grupo [Brasil by Daylight](https://discord.gg/Qt8d3NNWAb)<br/>
 Direção e Moderação do Streamer [lHeLLs](https://www.twitch.tv/lhells)<br/>
 Administração da [HazeFórum](https://hazeforum.com/)<br/>
-
-Setor de Gerência do [TrollPixel](https://github.com/TrollPixel)<br/>
 
 Contribuidor do [KatanPanel](https://github.com/KatanPanel/katan-discord-webhook-plugin)<br/>
 Parceiro da botlist [Discords](https://discords.com/bots/)<br/>
