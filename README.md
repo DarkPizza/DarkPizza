@@ -10,7 +10,7 @@ A programação é um Hobby, porém, curto mais fazer Atendimento ao Cliente par
 Meu maior interesse, é me profissionalizar mais ainda em Eletromecânica, para um emprego futuro.
 
 ## Projetos que trabalho/trabalhei
-CTO da [Alfacusa](https://alfacusa.com)<br/>
+CTO da [Alfacusa](https://alfabot.website)<br/>
 CTO da [Rede Magma](https://discord.gg/m5PYtFw6wp)<br/>
 Gerência do [TrollPixel](https://github.com/TrollPixel)<br/>
 Coordenação Geral da [STRTeam](https://www.strteamservidores.com.br/)<br/>
