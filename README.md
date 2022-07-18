@@ -20,7 +20,7 @@ Administração da [HazeFórum](https://hazeforum.com/)<br/>
 
 Contribuidor do [KatanPanel](https://github.com/KatanPanel/katan-discord-webhook-plugin)<br/>
 Parceiro da botlist [Discords](https://discords.com/bots/)<br/>
-Tradutor do FreeStuff(https://freestuffbot.xyz/)<br/>
+Tradutor do [FreeStuff](https://freestuffbot.xyz/)<br/>
 Afiliado da [Overclock](https://bebaoverclock.com.br/)<br/>
 
 
