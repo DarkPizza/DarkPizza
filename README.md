@@ -26,7 +26,7 @@ Afiliado da [Overclock](https://bebaoverclock.com.br/)<br/>
 
 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/561264957921034240"> <br/><br/>
+  <img src="https://lanyard.cnrad.dev/api/561264957921034240?idleMessage=Eu%20n%C3%A3o%20estou%20fazendo%20nada%20no%20momento!"> <br/><br/>
   <img alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img alt="Gradle" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg"> <br/>
   <img alt="Intellij" width="40px" src="https://raw.githubusercontent.com/yuhtin/yuhtin/master/icons/intellij.png"><br/>
