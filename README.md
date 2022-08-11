@@ -13,7 +13,7 @@ Meu maior interesse, é me profissionalizar mais ainda em Eletromecânica, para 
 CTO da [Alfacusa](https://alfabot.website)<br/>
 CTO da [Rede Magma](https://discord.gg/m5PYtFw6wp)<br/>
 Gerência do [TrollPixel](https://github.com/TrollPixel)<br/>
-Ajudante da [Rede Screen](https://www.redescreen.com/)
+Ajudante da [Rede Screen](https://www.redescreen.com/)<br/>
 Coordenação Geral da [STRTeam](https://www.strteamservidores.com.br/)<br/>
 Manager do grupo [Brasil by Daylight](https://discord.gg/Qt8d3NNWAb)<br/>
 Direção e Moderação do Streamer [lHeLLs](https://www.twitch.tv/lhells)<br/>
