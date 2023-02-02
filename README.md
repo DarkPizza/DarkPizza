@@ -13,23 +13,24 @@ Well, I would like to introduce you to Alfacusa, a Discord Roleplay bot with ove
 This is currently the **biggest project** I have ever done in my life and it is certainly where my **love for making bots for Discord** came from.
 
 ## Discord Bots portfolio in images
-**Ticket bot** with complete management system and logs; [Click me!](https://imgur.com/a/6XNXRuM)<br/>
-**Suggestion bot** with approve/deny/implement system using MySQL to store information for Senior Team application; [Click me!](https://github.com/DarkPizza/suggestion-bot)<br/>
-**Pterodactyl Integration bot** to manage your Pterodactyl servers by Discord with token authentication and MySQL storage [Click me!](https://youtu.be/1mJ9wP5L3DA)<br/>
-**SensiviteBot** a NSFW bot for Discord that has been discontinued. [Click me!](https://discords.com/bots/bot/687100809493741651)<br/>
+>  **Ticket bot** with complete management system and logs; [Click me!](https://imgur.com/a/6XNXRuM)
+
+> **Suggestion bot** with approve/deny/implement system using MySQL to store information for Senior Team application; [Click me!](https://github.com/DarkPizza/suggestion-bot)<br/>
+
+> **Pterodactyl Integration bot** to manage your Pterodactyl servers by Discord with token authentication and MySQL storage [Click me!](https://youtu.be/1mJ9wP5L3DA)<br/>
+
+> **SensiviteBot** a NSFW bot for Discord that has been discontinued. [Click me!](https://discords.com/bots/bot/687100809493741651)<br/>
 
 ## Projects I currently work on
 CTO in [Alfacusa](https://alfabot.website/en)<br/>
 Discord Manager in [HyperiumHost](https://discord.gg/MZQQbgzxx4)<br/>
 Manager in [Brasil by Daylight](https://discord.gg/Qt8d3NNWAb)<br/>
-Administration of [HazeFórum](https://hazeforum.com/)<br/>
+Administration of [HazeFórum](https://hazeforum.com/)<br/><br/>
 
 Contributor of the [KatanPanel](https://github.com/KatanPanel/katan-discord-webhook-plugin)<br/>
 Partner of the botlist [Discords](https://discords.com/bots/)<br/>
 Translator of [FreeStuff](https://freestuffbot.xyz/)<br/>
-Affiliate of [Overclock](https://bebaoverclock.com.br/)<br/>
-
-<p align="center">
+Affiliate of [Overclock](https://bebaoverclock.com.br/)<br/><br/>
 
 ## My Discord
 <p align="center">
