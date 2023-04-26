@@ -2,7 +2,7 @@
 Bem-vindo ao meu Github, aqui não há muito conteúdo público, já que a maioria do que faço é para clientes e projetos privados.
 
 ## Sobre mim 👦
-Meu nome é Artur, atualmente tenho 18 anos e moro na região do ABC em São Paulo. Estou cursando Eletromecânica na [ETEC](https://www.vestibulinhoetec.com.br/home/) e também concluí cursos em Arte Vetorial, Composição de Imagens, Composição e Efeitos de Vídeo e Audiovisual na [Escola Saga](https://www.saga.com.br/).
+Meu nome é Artur, atualmente tenho 19 anos e moro na região do ABC em São Paulo. Estou cursando Eletromecânica na [ETEC](https://www.vestibulinhoetec.com.br/home/) e também concluí cursos em Arte Vetorial, Composição de Imagens, Composição e Efeitos de Vídeo e Audiovisual na [Escola Saga](https://www.saga.com.br/).
 
 Programação é um hobby para mim, no entanto, eu gosto mais de atuar em Atendimento ao Cliente para minha loja de programação do Discord, a [BreakingStore](https://github.com/BreakingStore), onde eu vendo Bots para o Discord e alguns programas para Windows.
 
