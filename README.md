@@ -2,7 +2,7 @@
 Welcome to my Github, you won't find much here, since most of the stuff I do is for clients and private projects.
 
 ## About Me 👦
-My name is Artur, I am currently 18 years old, I live in the ABC region in São Paulo. I am currently taking a course in Electromechanics at [ETEC](https://www.vestibulinhoetec.com.br/home/), I have also completed courses in Vectorial Art, Image Composition, Video Composition and Effects and Audiovisual at [Escola Saga](https://www.saga.com.br/).
+My name is Artur, I am currently 19 years old, I live in the ABC region in São Paulo. I am currently taking a course in Electromechanics at [ETEC](https://www.vestibulinhoetec.com.br/home/), I have also completed courses in Vectorial Art, Image Composition, Video Composition and Effects and Audiovisual at [Escola Saga](https://www.saga.com.br/).
 
 Programming is a Hobby, however, I enjoy more doing Customer Service for my Discord programming store, the [BreakingStore](https://github.com/BreakingStore), where I sell Bots for Discord and some Windows programs.
 
