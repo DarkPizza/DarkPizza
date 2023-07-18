@@ -2,14 +2,14 @@
 Welcome to my Github, you won't find much here, since most of the stuff I do is for clients and private projects.
 
 ## About Me 👦
-My name is Artur, I am currently 19 years old, I live in the ABC region in São Paulo. I am currently taking a course in Electromechanics at [ETEC](https://www.vestibulinhoetec.com.br/home/), I have also completed courses in Vectorial Art, Image Composition, Video Composition and Effects and Audiovisual at [Escola Saga](https://www.saga.com.br/).
+My name is Artur, I am currently 19 years old, I live in the ABC region in São Paulo. I have completed courses in Vectorial Art, Image Composition, Video Composition and Effects and Audiovisual with Adobe Package at [Escola Saga](https://www.saga.com.br/).
 
 Programming is a Hobby, however, I enjoy more doing Customer Service for my Discord programming store, the [BreakingStore](https://github.com/BreakingStore), where I sell Bots for Discord and some Windows programs.
 
 My main interest, is to become even more professional in Electromechanics, for a future job.
 
 ## Alfacusa
-Well, I would like to introduce you to Alfacusa, a Discord Roleplay bot with over **95,000** servers and thousands of users spread all over Brazil.<br/>
+Well, I would like to introduce you to Alfacusa, a Discord Roleplay bot with over +**100,000** servers and thousands of users spread all over Brazil.<br/>
 This is currently the **biggest project** I have ever done in my life and it is certainly where my **love for making bots for Discord** came from.
 
 ## Discord Bots portfolio in images
@@ -23,13 +23,12 @@ This is currently the **biggest project** I have ever done in my life and it is 
 
 ## Projects I currently work on
 CTO in [Alfacusa](https://alfabot.website/en)<br/>
-Discord Manager in [HyperiumHost](https://discord.gg/MZQQbgzxx4)<br/>
 Manager in [Brasil by Daylight](https://discord.gg/Qt8d3NNWAb)<br/>
 Administration of [HazeFórum](https://hazeforum.com/)<br/><br/>
 
 Contributor of the [KatanPanel](https://github.com/KatanPanel/katan-discord-webhook-plugin)<br/>
 Partner of the botlist [Discords](https://discords.com/bots/)<br/>
-Translator of [FreeStuff](https://freestuffbot.xyz/)<br/>
+Translator of [FreeStuff](https://freestuffbot.xyz/team)<br/>
 Affiliate of [Overclock](https://bebaoverclock.com.br/)<br/><br/>
 
 ## My Discord
