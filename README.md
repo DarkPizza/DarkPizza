@@ -23,27 +23,38 @@ This is currently the **biggest project** I have ever done in my life and it is 
 
 ## Projects I currently work on
 CTO in [Alfacusa](https://alfabot.website/en)<br/>
-Manager in [Brasil by Daylight](https://discord.gg/Qt8d3NNWAb)<br/>
-Administration of [HazeFórum](https://hazeforum.com/)<br/><br/>
+Moderator in [Dawnlands](https://discord.gg/dawnlands)<br/>
 
-Contributor of the [KatanPanel](https://github.com/KatanPanel/katan-discord-webhook-plugin)<br/>
 Partner of the botlist [Discords](https://discords.com/bots/)<br/>
 Translator of [FreeStuff](https://freestuffbot.xyz/team)<br/>
-Affiliate of [Overclock](https://bebaoverclock.com.br/)<br/><br/>
 
-## My Discord
+## Connect with me
 <p align="center">
+<a href="https://twitter.com/dark_pizza_xd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dark_pizza_xd" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arturpbrandao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arturpbrandao" height="30" width="40" /></a>
+<a href="https://instagram.com/arturpbrandao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arturpbrandao" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/dark_pizza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dark_pizza" height="30" width="40" /></a>
+<p align="center">
+<a href="https://discord.com/users/561264957921034240">
   <img src="https://lanyard.cnrad.dev/api/561264957921034240?idleMessage=Eu%20n%C3%A3o%20estou%20fazendo%20nada%20no%20momento!"> <br/><br/>
 </p> 
+</p>
 
 ## Experiences
 <p align="center">
-  <img alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img alt="Gradle" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg"> <br/>
-  <img alt="Intellij" width="40px" src="https://raw.githubusercontent.com/yuhtin/yuhtin/master/icons/intellij.png"><br/>
-  <img alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"><br/>
+<a href="https://docs.oracle.com/en/java/" target="blank"><img alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
+<a href="https://gradle.org/" target="blank"><img alt="Gradle" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg"></a> <br/>
+<a href="https://www.jetbrains.com/idea/" target="blank"><img alt="IntelliJ" width="40px" src="https://raw.githubusercontent.com/yuhtin/yuhtin/master/icons/intellij.png"></a><br/>
+<a href="https://www.adobe.com/products/photoshop.html" target="blank"><img alt="Adobe Photoshop" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"></a>
+<a href="https://www.adobe.com/products/illustrator.html" target="blank"><img alt="Adobe Illustrator" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg"></a>
+<a href="https://www.adobe.com/products/premiere.html" target="blank"><img alt="Adobe Premiere Pro" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-plain.svg"></a>
+<a href="https://www.adobe.com/products/aftereffects.html" target="blank"><img alt="Adobe After Effects" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-plain.svg"></a><br/>
+<a href="https://dev.mysql.com/" target="blank"><img alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></a>
+<a href="https://www.mongodb.com/" target="blank"><img alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></a><br/>
 </p>  
+
+
+
 
 ## Github History
 <p align="center">
